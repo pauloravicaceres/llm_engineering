@@ -21,6 +21,10 @@ The projects in this repository are structured sequentially to build complexity 
     * *Focus:* automates the creation of marketing collateral
 3.  **[technical_tutor](./technical_tutor)**
     * *Focus:* A flexible educational tool that allows developers to have an AI mentor always available, whether leveraging the power of the cloud or the privacy of their own machine.
+4.  **[consumption_frontier_models](./consumption_frontier_models)**
+    * *Focus:* Exploring and Using Frontier Model APIs
+5.  **[interactive_interface](./interactive_interface)**
+    * *Focus:* Unified Multi-LLM Streaming Hub — A centralized Gradio interface to interact with, compare, and stream responses from top-tier models (OpenAI, Anthropic, Google) in real-time.
 
 ## Setup
 To get started with this repository, follow these steps:
