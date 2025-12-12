@@ -25,6 +25,10 @@ The projects in this repository are structured sequentially to build complexity 
     * *Focus:* Exploring and Using Frontier Model APIs
 5.  **[interactive_interface](./interactive_interface)**
     * *Focus:* Unified Multi-LLM Streaming Hub — A centralized Gradio interface to interact with, compare, and stream responses from top-tier models (OpenAI, Anthropic, Google) in real-time.
+6.  **[conversational_chatbot](./conversational_chatbot)**
+    * *Focus:* A conversational chatbot that can be used to interact with a LLM
+7.  **[airline_assistant](./airline_assistant)**
+    * *Focus:* An airline assistant that can be used to interact with a LLM
 
 ## Setup
 To get started with this repository, follow these steps:
