@@ -31,6 +31,8 @@ The projects in this repository are structured sequentially to build complexity 
     * *Focus:* An airline assistant that can be used to interact with a LLM
 8.  **[huggingface_pipelines](./huggingface_pipelines)**
     * *Focus:* The High Level API for using open-source models for typical inference tasks is called "pipelines". It's incredibly easy to use.
+9.  **[tokenizers](./tokenizers)**
+    * *Focus:* Tokenizers are a crucial component of any NLP pipeline. They are used to convert text into a format that can be processed by a model.
 
 ## Setup
 To get started with this repository, follow these steps:
