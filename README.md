@@ -29,6 +29,8 @@ The projects in this repository are structured sequentially to build complexity 
     * *Focus:* A conversational chatbot that can be used to interact with a LLM
 7.  **[airline_assistant](./airline_assistant)**
     * *Focus:* An airline assistant that can be used to interact with a LLM
+8.  **[huggingface_pipelines](./huggingface_pipelines)**
+    * *Focus:* The High Level API for using open-source models for typical inference tasks is called "pipelines". It's incredibly easy to use.
 
 ## Setup
 To get started with this repository, follow these steps:
