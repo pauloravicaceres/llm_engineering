@@ -35,6 +35,8 @@ The projects in this repository are structured sequentially to build complexity 
     * *Focus:* Google Colab - Tokenizers are a crucial component of any NLP pipeline. They are used to convert text into a format that can be processed by a model.
 10. **[models](./models)**
     * *Focus:* Google Colab - Models are the core component of any NLP pipeline. They are used to process text into a format that can be used for inference.
+11. **[generation_meeting_minutes](./generation_meeting_minutes)**
+    * *Focus:* Google Colab - Generation Meeting Minutes
 
 ## Setup
 To get started with this repository, follow these steps:
