@@ -30,9 +30,11 @@ The projects in this repository are structured sequentially to build complexity 
 7.  **[airline_assistant](./airline_assistant)**
     * *Focus:* An airline assistant that can be used to interact with a LLM
 8.  **[huggingface_pipelines](./huggingface_pipelines)**
-    * *Focus:* The High Level API for using open-source models for typical inference tasks is called "pipelines". It's incredibly easy to use.
+    * *Focus:* Google Colab - The High Level API for using open-source models for typical inference tasks is called "pipelines". It's incredibly easy to use.
 9.  **[tokenizers](./tokenizers)**
-    * *Focus:* Tokenizers are a crucial component of any NLP pipeline. They are used to convert text into a format that can be processed by a model.
+    * *Focus:* Google Colab - Tokenizers are a crucial component of any NLP pipeline. They are used to convert text into a format that can be processed by a model.
+10. **[models](./models)**
+    * *Focus:* Google Colab - Models are the core component of any NLP pipeline. They are used to process text into a format that can be used for inference.
 
 ## Setup
 To get started with this repository, follow these steps:
